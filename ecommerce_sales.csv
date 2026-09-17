@@ -1,0 +1,91 @@
+Order_ID,Order_Date,Product,Category,Quantity,Price,Payment_Method
+1001,2026-01-03,Laptop,Electronics,1,55000,UPI
+1002,2026-01-04,T-Shirt,Fashion,2,799,Card
+1003,2026-01-05,Headphones,Electronics,1,1499,UPI
+1004,2026-01-06,Shoes,Fashion,1,2499,Cash on Delivery
+1005,2026-01-08,Mixer Grinder,Home & Kitchen,1,3299,UPI
+1006,2026-01-10,Smartphone,Electronics,1,22000,Card
+1007,2026-01-12,Jeans,Fashion,2,1599,UPI
+1008,2026-01-15,Office Chair,Furniture,1,6999,Net Banking
+1009,2026-01-18,Water Bottle,Home & Kitchen,3,499,Cash on Delivery
+1010,2026-01-20,Smart Watch,Electronics,1,2999,UPI
+1011,2026-02-02,Laptop,Electronics,1,62000,Card
+1012,2026-02-04,Kurta,Fashion,2,1199,UPI
+1013,2026-02-06,Bluetooth Speaker,Electronics,1,2199,Cash on Delivery
+1014,2026-02-08,Sofa Cushion,Home & Kitchen,4,399,UPI
+1015,2026-02-10,Study Table,Furniture,1,5499,Net Banking
+1016,2026-02-12,Smartphone,Electronics,1,18500,Card
+1017,2026-02-15,T-Shirt,Fashion,3,699,UPI
+1018,2026-02-18,Bedsheet,Home & Kitchen,2,899,Cash on Delivery
+1019,2026-02-20,Gaming Mouse,Electronics,1,1299,UPI
+1020,2026-02-25,Dining Chair,Furniture,2,2499,Card
+1021,2026-03-01,Laptop,Electronics,1,48000,Net Banking
+1022,2026-03-03,Shoes,Fashion,2,1999,UPI
+1023,2026-03-05,Air Fryer,Home & Kitchen,1,4999,Card
+1024,2026-03-07,Bookshelf,Furniture,1,3999,Cash on Delivery
+1025,2026-03-09,Headphones,Electronics,2,1799,UPI
+1026,2026-03-11,Saree,Fashion,1,2499,Card
+1027,2026-03-14,Smart Watch,Electronics,2,2699,UPI
+1028,2026-03-17,Curtains,Home & Kitchen,2,1299,Net Banking
+1029,2026-03-20,Office Chair,Furniture,1,7999,Card
+1030,2026-03-24,Backpack,Fashion,1,1499,Cash on Delivery
+1031,2026-04-02,Smartphone,Electronics,1,25000,UPI
+1032,2026-04-04,Jeans,Fashion,1,1799,Card
+1033,2026-04-06,Microwave Oven,Home & Kitchen,1,8999,Net Banking
+1034,2026-04-08,Study Table,Furniture,1,5999,UPI
+1035,2026-04-10,Keyboard,Electronics,2,999,Cash on Delivery
+1036,2026-04-12,Kurta,Fashion,2,1399,UPI
+1037,2026-04-15,Coffee Maker,Home & Kitchen,1,3499,Card
+1038,2026-04-18,Bookshelf,Furniture,1,4299,Net Banking
+1039,2026-04-21,Laptop,Electronics,1,58000,Card
+1040,2026-04-25,Handbag,Fashion,1,1899,UPI
+1041,2026-05-01,Headphones,Electronics,3,1599,UPI
+1042,2026-05-03,T-Shirt,Fashion,2,899,Cash on Delivery
+1043,2026-05-05,Refrigerator,Home & Kitchen,1,28999,Card
+1044,2026-05-07,Dining Chair,Furniture,4,2199,Net Banking
+1045,2026-05-09,Smart Watch,Electronics,1,3299,UPI
+1046,2026-05-11,Shoes,Fashion,1,2999,Card
+1047,2026-05-14,Water Bottle,Home & Kitchen,5,399,Cash on Delivery
+1048,2026-05-17,Office Chair,Furniture,1,7499,UPI
+1049,2026-05-20,Smartphone,Electronics,1,21000,Net Banking
+1050,2026-05-24,Saree,Fashion,2,2199,Card
+1051,2026-06-02,Laptop,Electronics,1,65000,UPI
+1052,2026-06-04,Jeans,Fashion,2,1699,Card
+1053,2026-06-06,Mixer Grinder,Home & Kitchen,1,3599,Cash on Delivery
+1054,2026-06-08,Study Table,Furniture,1,6299,UPI
+1055,2026-06-10,Bluetooth Speaker,Electronics,2,1999,Net Banking
+1056,2026-06-12,Kurta,Fashion,1,1299,Card
+1057,2026-06-15,Air Fryer,Home & Kitchen,1,5299,UPI
+1058,2026-06-18,Bookshelf,Furniture,1,4599,Cash on Delivery
+1059,2026-06-21,Gaming Mouse,Electronics,2,1199,UPI
+1060,2026-06-25,Backpack,Fashion,2,1399,Card
+1061,2026-07-01,Smartphone,Electronics,1,23500,UPI
+1062,2026-07-03,T-Shirt,Fashion,3,749,Cash on Delivery
+1063,2026-07-05,Microwave Oven,Home & Kitchen,1,9299,Card
+1064,2026-07-07,Office Chair,Furniture,2,6799,Net Banking
+1065,2026-07-09,Headphones,Electronics,1,1899,UPI
+1066,2026-07-11,Shoes,Fashion,1,2699,Card
+1067,2026-07-14,Curtains,Home & Kitchen,3,1199,Cash on Delivery
+1068,2026-07-17,Dining Chair,Furniture,2,2399,UPI
+1069,2026-07-20,Laptop,Electronics,1,59000,Net Banking
+1070,2026-07-24,Handbag,Fashion,1,2099,Card
+1071,2026-08-02,Smart Watch,Electronics,2,2899,UPI
+1072,2026-08-04,Jeans,Fashion,1,1899,Cash on Delivery
+1073,2026-08-06,Refrigerator,Home & Kitchen,1,31999,Card
+1074,2026-08-08,Study Table,Furniture,1,5799,Net Banking
+1075,2026-08-10,Keyboard,Electronics,3,899,UPI
+1076,2026-08-12,Saree,Fashion,1,2399,Card
+1077,2026-08-15,Coffee Maker,Home & Kitchen,1,3799,Cash on Delivery
+1078,2026-08-18,Bookshelf,Furniture,1,4199,UPI
+1079,2026-08-21,Smartphone,Electronics,1,19500,Net Banking
+1080,2026-08-25,Backpack,Fashion,2,1599,Card
+1081,2026-09-01,Laptop,Electronics,1,61000,UPI
+1082,2026-09-03,T-Shirt,Fashion,2,849,Cash on Delivery
+1083,2026-09-05,Air Fryer,Home & Kitchen,1,5599,Card
+1084,2026-09-07,Office Chair,Furniture,1,7299,Net Banking
+1085,2026-09-09,Bluetooth Speaker,Electronics,1,2299,UPI
+1086,2026-09-11,Shoes,Fashion,2,2599,Card
+1087,2026-09-13,Water Bottle,Home & Kitchen,4,449,Cash on Delivery
+1088,2026-09-14,Dining Chair,Furniture,2,2299,UPI
+1089,2026-09-15,Headphones,Electronics,2,1699,Net Banking
+1090,2026-09-16,Kurta,Fashion,1,1499,Card
