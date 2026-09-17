@@ -104,26 +104,6 @@ The dataset contains sales-related information such as:
 
 The dataset is used for calculating sales metrics and creating visualizations.
 
-⚙️ How to Run the Project
-
-Step 1: Clone the repository
-
-git clone https://github.com/Harikrishna-AIML/E-Commerce-Sales-Analyzer.git
-
-Step 2: Open the project folder
-
-cd E-Commerce-Sales-Analyzer
-
-Step 3: Install required libraries
-
-pip install pandas matplotlib
-
-Step 4: Run the Python program
-
-python main.py
-
-The program will display the sales analysis results in the terminal and generate charts using Matplotlib.
-
 💻 Sample Output
 
 ========================================
@@ -173,18 +153,11 @@ Through this project, I learned:
 - Add sales growth percentage.
 - Add customer purchase analysis.
 - Add filters for product, category, and payment method.
-
-👨‍💻 Author
-
-Hari Krishna
-
-2nd Year AIML Student
-CVR College of Engineering
-
+  
 Interested in Python, Artificial Intelligence, Machine Learning, and Data Analysis.
 
 ⭐ Acknowledgement
 
 This project was developed as part of my learning journey in Python and Data Analysis.
 
-Thank you for visiting my project! 🚀
+Thank you for visiting my project! 
